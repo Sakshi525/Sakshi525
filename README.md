@@ -3,7 +3,7 @@
   <h1>🌟 Welcome to My Profile! I'm a Passionate Node JS Developer 🌟</h1>
   
   <p>
-    Crafting beautiful and responsive web applications with:
+    Crafting restful APIs and logics with:
     <br>
     <b>MongoDB</b>, <b>Express.js</b> and <b>Node.js</b>.
   </p>
